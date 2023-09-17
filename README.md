@@ -51,6 +51,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-This Calculator App was created as a learning project. Special thanks to [Your Name] for inspiration and guidance.
+This Calculator App was created as a learning project. Special thanks to GreatStack for inspiration and guidance.
 
 Feel free to customize this README to fit your specific project details.
