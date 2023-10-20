@@ -27,7 +27,6 @@ To run the Calculator App locally, follow these steps:
 2. Open the `index.html` file in your web browser.
 
 ## JavaScript Code
-
 The calculator functionality is implemented using JavaScript. You can find the JavaScript code in the `script.js` file.
 
 ## Technologies Used
