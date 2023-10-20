@@ -1,5 +1,3 @@
-
-
 # Calculator App
 
 This is a simple web-based calculator application that allows users to perform basic arithmetic operations.
