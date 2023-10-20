@@ -40,7 +40,6 @@ Contributions are welcome! If you'd like to improve the Calculator App or add ne
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
-
 This Calculator App was created as a learning project. Special thanks to GreatStack for inspiration and guidance.
 
 Feel free to customize this README to fit your specific project details.
