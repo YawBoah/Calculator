@@ -6,7 +6,6 @@ This is a simple web-based calculator application that allows users to perform b
 png)
 
 ## Features
-
 - Addition
 - Subtraction
 - Multiplication
