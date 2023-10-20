@@ -15,7 +15,6 @@ png)
 - Delete button (`DE`)
 
 ## Usage
-
 1. Enter numbers and operators using the on-screen buttons or your keyboard.
 2. Click the `=` button to calculate the result.
 3. Use the `AC` button to clear the input.
