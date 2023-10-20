@@ -35,7 +35,6 @@ The calculator functionality is implemented using JavaScript. You can find the J
 - JavaScript
 
 ## Contributing
-
 Contributions are welcome! If you'd like to improve the Calculator App or add new features, please fork this repository and submit a pull request.
 
 ## License
