@@ -21,7 +21,6 @@ png)
 4. Use the `DE` button to delete the last character in the input.
 
 ## Getting Started
-
 To run the Calculator App locally, follow these steps:
 
 1. Clone or download this repository to your computer.
