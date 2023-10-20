@@ -38,7 +38,6 @@ The calculator functionality is implemented using JavaScript. You can find the J
 Contributions are welcome! If you'd like to improve the Calculator App or add new features, please fork this repository and submit a pull request.
 
 ## License
-
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
