@@ -81,13 +81,44 @@ form input.operator{
     margin-top: 0;
 }
 
-/* Media Query for screens with a maximum width of 480px */
 @media screen and (max-width: 480px) {
-    .container{
-        display: block; /* Change to block display */
+    .container {
+        display: block; /* Display elements in a block form */
+        margin: 10px; /* Add some margin for spacing */
+        text-align: center; /* Center the content */
     }
 
-    .usage-guide{
-       margin-right: 50px;
+    .calculator {
+        padding: 10px; /* Reduce padding for the calculator */
+        margin: 20px;
+    }
+
+    .calculator form input {
+        width: 40px; /* Reduce the size of the buttons */
+        height: 40px;
+        font-size: 16px; /* Reduce font size */
+        margin: 5px; /* Reduce button margin */
+    }
+
+    form .display {
+        margin: 10px 0; /* Reduce margin for the display */
+    }
+
+    form .display input {
+        font-size: 25px; /* Adjust font size for the display */
+    }
+
+    .usage-guide {
+        margin: 20px; /* Adjust margin for the usage guide */
+        padding: 15px; /* Adjust padding for the usage guide */
+    }
+
+    .usage-guide h2 {
+        font-size: 16px; /* Adjust font size for headings */
+    }
+
+    .usage-guide p {
+        font-size: 14px; /* Adjust font size for paragraphs */
+        margin: 8px 0; /* Adjust margin for paragraphs */
     }
 }
