@@ -2,7 +2,6 @@
 
 This is a simple web-based calculator application that allows users to perform basic arithmetic operations.
 
-![Screenshot 2023-09-17 192351](https://github.com/YawBoah/Calculator/assets/126890146/85311743-0d78-446a-92ab-495043a25131)
 
 ## Features
 - Addition
