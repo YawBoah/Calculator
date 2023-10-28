@@ -54,3 +54,47 @@ form input.equal{
 form input.operator{
     color: #33ffd8;
 }
+
+/* Style for the usage guide */
+.usage-guide {
+    background: #f3f3f3;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin-left: 50px;
+    margin-top: 20px;
+    text-align: left;
+}
+
+.usage-guide h2 {
+    font-size: 18px;
+    color: #333;
+}
+
+.usage-guide p {
+    font-size: 16px;
+    color: #555;
+    margin: 10px 0;
+}
+
+.usage-guide p:first-child {
+    margin-top: 0;
+}
+
+/* Media Query for screens with a maximum width of 480px */
+@media screen and (max-width: 480px) {
+    .calculator {
+        padding: 10px;
+    }
+
+    .calculator form input {
+        width: 40px;
+        height: 40px;
+        font-size: 16px;
+        margin: 5px;
+    }
+
+    .usage-guide {
+        margin: 10px 0;
+    }
+}
