@@ -85,6 +85,7 @@ form input.operator{
 @media screen and (max-width: 480px) {
     .calculator {
         padding: 10px;
+        display: block; /* Change to block display */
     }
 
     .calculator form input {
@@ -96,5 +97,6 @@ form input.operator{
 
     .usage-guide {
         margin: 10px 0;
+        display: block; /* Change to block display */
     }
 }
