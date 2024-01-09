@@ -1,4 +1,7 @@
 # 🧮 Calculator App
+![GitHub repo size](https://img.shields.io/github/repo-size/YawBoah/Calculator)
+![GitHub issues](https://img.shields.io/github/issues/YawBoah/Calculator)
+![GitHub stars](https://img.shields.io/github/stars/YawBoah/Calculator)
 
 Welcome to the Calculator App, a sleek web-based calculator for your arithmetic needs! Calculate with style and simplicity.
 
