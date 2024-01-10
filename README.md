@@ -7,7 +7,7 @@ Welcome to the Calculator App, a sleek web-based calculator for your arithmetic 
 
 ![Calculator](https://github.com/YawBoah/Calculator/assets/126890146/1cd919b8-dd1b-4c6b-9486-d3bc3a82859c)
 
-## ✨ Features
+## ✨ Features ⚙ 
 - Addition ➕
 - Subtraction ➖
 - Multiplication ✖️
