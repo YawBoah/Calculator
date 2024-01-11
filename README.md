@@ -16,7 +16,7 @@ Welcome to the Calculator App, a sleek web-based calculator for your arithmetic 
 - Clear button (`AC`) 🔄
 - Delete button (`DE`) 🗑️
 
-## 🚀 Usage
+## 🚀 Usage ⚙ 
 1. Enter numbers and operators via on-screen buttons or your keyboard.
 2. Click `=` to calculate the result.
 3. Use `AC` to clear the input.
